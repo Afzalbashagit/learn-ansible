@@ -18,7 +18,7 @@
         URL: task.example.com
 
 
-- name: Demo on  loading file Level Variables
+- name: Load vars from a file
   hosts: all
   vars_files:
     - exvars.yml
